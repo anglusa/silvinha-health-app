@@ -1,0 +1,12 @@
+Criar o projeto
+npx create-expo-app
+
+adicionar o pacote para execução na WEB
+npx expo install react-dom react-native-web @expo/webpack-config
+
+iniciar projeto
+npx expo start
+
+configurar o GIT
+git config --global user.name anglusa
+git config --global user.email otavio.baroni@etec.sp.gov.br
