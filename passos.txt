@@ -10,3 +10,6 @@ npx expo start
 configurar o GIT
 git config --global user.name anglusa
 git config --global user.email otavio.baroni@etec.sp.gov.br
+
+restaurar o projeto
+npm i
