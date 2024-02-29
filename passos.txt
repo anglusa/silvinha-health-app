@@ -5,7 +5,7 @@ adicionar o pacote para execução na WEB
 npx expo install react-dom react-native-web @expo/webpack-config
 
 iniciar projeto
-npx expo start
+npx expo start --android --localhost
 
 configurar o GIT
 git config --global user.name anglusa
