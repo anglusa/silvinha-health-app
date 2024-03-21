@@ -25,12 +25,12 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize:18,
-    color: 'FF0043',
+    color: '#FF0043',
     fontWeight:'bold'
   },
   textImc: {
     fontSize:48,
-    color: 'FF0043',
+    color: '#FF0043',
     fontWeight:'bold'
   },
 })
